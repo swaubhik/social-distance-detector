@@ -4,7 +4,7 @@
   <h4>Social Distance Detection system built with OpenCV, Yolo using Deep Learning and Computer Vision concepts in order to detect social distance in real-time video streams.</h4>
 </div>
 
-![Live Demo](.\mylib\videos\output.gif)
+![Live Demo](./mylib/videos/output.gif)
 
 ## :innocent: Motivation
 
