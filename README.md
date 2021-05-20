@@ -4,7 +4,7 @@
   <h4>Social Distance Detection system built with OpenCV, Yolo using Deep Learning and Computer Vision concepts in order to detect social distance in real-time video streams.</h4>
 </div>
 
-![Live Demo](https://github.com/swaubhik/face-mask-detector/blob/master/Readme_images/demo.gif)
+![Live Demo](.\mylib\videos\output.gif)
 
 ## :innocent: Motivation
 
@@ -12,8 +12,8 @@ In the present scenario due to Covid-19, there is no efficient social distance d
 
 ## :eyes: Demo
 
-<p align="center"><img src="https://github.com/swaubhik/face-mask-detector/blob/master/Readme_images/demo.jpg" width="700" height="400"></p>
-<p align="center"><img src="https://github.com/swaubhik/face-mask-detector/blob/master/Readme_images/demo_nomask1.jpg" width="700" height="400"></p>
+<p align="center"><img src=".\mylib\videos\output.gif" width="700" height="400"></p>
+<p align="center"><img src=".\mylib\videos\output1.gif" width="700" height="400"></p>
 
 ## :warning: TechStack/framework used
 
