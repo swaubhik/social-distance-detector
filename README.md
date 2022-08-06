@@ -114,7 +114,7 @@ Feel free to **file a new issue** with a respective title and description on the
 
 ## :heart: Owner
 
-Made with :heart:&nbsp; by [Swaubhik Chakraborty](https://github.com/swaubhik)
+Made with :heart:&nbsp; by [Swaubhik Chakraborty](https://github.com/swaubhik),[Amit Kumar Singh](https://github.com/RajpootAmit)
 
 ## :+1: Credits
 
